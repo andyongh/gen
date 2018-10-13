@@ -30,3 +30,4 @@ his should be a VIP, an unused IP on your network that will float between
  in "OpenStack options" section, and set this value to the IP of your
  'network_interface' as set in the Networking section below.
 
+http://elatov.github.io/2018/09/installing-openstack-pike-with-kolla-ansible/
